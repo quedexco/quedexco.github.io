@@ -1,5 +1,18 @@
-# Object file
-*.o
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
 
-# Ada Library Information
-*.ali
+_site/
+.sass-cache/
+*.swp
+pkg/
+test/
+_deploy/*
+Rakefile
+.jekyll-metadata
