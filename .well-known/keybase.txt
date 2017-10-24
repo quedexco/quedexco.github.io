@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/bhupendrabhudia
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.quedex.co
+  * I am bhupendrabhudia (https://keybase.io/bhupendrabhudia) on keybase.
+  * I have a public key with fingerprint 8375 CE94 EC1B AEE7 0FA2  51C0 2038 FFF2 6485 773A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010102576204a6e7297a87eb7c070102b8ff89f7eb465e65c205b32fdbf51d15d8e50a",
+      "fingerprint": "8375ce94ec1baee70fa251c02038fff26485773a",
+      "host": "keybase.io",
+      "key_id": "2038fff26485773a",
+      "kid": "010102576204a6e7297a87eb7c070102b8ff89f7eb465e65c205b32fdbf51d15d8e50a",
+      "uid": "836a512810a9c3cdb2804eef005fb019",
+      "username": "bhupendrabhudia"
+    },
+    "merkle_root": {
+      "ctime": 1508866996,
+      "hash_meta": "7dfa50a4cfd15830a00d07f7ca483e5cf3de7e44e287eda4266155f80a1db0ab",
+      "seqno": 1623704
+    },
+    "revoke": {
+      "sig_ids": [
+        "0ca3de7a04e407bbeefd5b61d59472396ec0281a7c01cf80c5121e066a859e620f"
+      ]
+    },
+    "service": {
+      "hostname": "www.quedex.co",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1508867013,
+  "expire_in": 157680000,
+  "prev": "dc6aad5a89ea0d289a6782b8f8e165f5ae7e8205e7a3a8bb6d382a9b258548bb",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMK9AnicrVNdaBxVGN2kxpIUxRSLoqnWMS+tS7xzZ+6dO+tLqW+FYvMgWrQs9+eb
+zbjJzmR2sum6bPypWBEffFCotCJIia1WDKVFCk2Na6xoiBYJIjZWSBDS+kdjoPWn
+xW9CBQUfnXmYufeee77znXPv9E1rcl1tR/pnT3R039bdNtNqjuR2/dL4uGGpyNSt
+QsMqw+oHBg1U02I5NFbBIja+lHmcEldy8KjvSeGB8jTxshUlgkD4Ac64nAFnmhKm
+HBoYFTDb2MwIYERaeSsIKyVI4iSspEgrHI9p8F3QtpIAHgkkZbYmlDhIGFDuCuZ5
+TrZxIKpmO1CcklXoCyOcw0FxVd5/4P9n3SOrdMLhktlU2ET62tFGUUFcgIAQFihi
++xmwCklFDgGi1cBIDBWTSPwxobSaeWsIkvIgFJMoSjOPdRpmSJsRITj3fY59yupA
+cQhSiQSeCSSWd3WAUoRDJCGGeIGnpSscYDpwDHjgukCxJyNdyrnNWCCItI0iUqGc
+KgxXIqzAqeMRFxUkUIvKkBWvhiV0r2oVHrOIlhmVxGZc4imFLRmmuG2Y73rU8Tlg
+JsKWaJutkV+jCTYQzqVgPqC5gbW7mRVLaqFeJc/ium7D6Oho3/AIGNjTp7PU4iRK
+Ix0N4tJAmsaFzJe0Hq9CQRWvkxRVWDF4WHBDDZJqGFWwC0T+yzLM0MlbsCcOEyiG
+GQKjFgSfrAzUkNJoLqVhUvggiaHCl9wTWe4CbM4CJtFBgalj944USnHjCCp9RZlg
+Lo7/4aGLOmUJOdG5ikxHErCaranHb8i1deVu7GjPblGuq/OWv+/Wi51rr/WW5vOf
+3X+oEF/dVju1PSwkx3rf2bXp3Hq9NPXB8odjL/dvpue/vIOM/Tz4+ksb31uZ7n/7
+88Uri+0Xvzk6Hm+YP0NPfnfp9FznyvzE0PMLa3sKpXtWLtrb3xw/tPeZpxpxeWez
+zic7JjfcOXVtR/r0cze37q4cfuT9dveN+n1fz505uACPrvlh/fnflx5uu/BgbtNW
+fXDn8E9vjR/onVyaK+W3nHy1a11ppn+51nPXF1/dSne8ML1F/traOHb20r4/Zz7a
+P/Xa8XOXrx7ZPPvAbz+ePfpk9wXe6ti37l2+t33/t99/crk+vFCqH9v9x8Tx06/k
+D9y77dnC4YlPFycfajTiE+7ylSfinq2nbp/9Cymvi84=
+=Tarh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bhupendrabhudia
+
+==================================================================
+
