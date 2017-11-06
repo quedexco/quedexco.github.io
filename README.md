@@ -1,3 +1,3 @@
 # quedexco.github.io
 
-Static website https://www.quedex.co
+Static website http://www.quedex.co
